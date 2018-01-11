@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 85,
+    "uniqCompNum": 88,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -139,7 +139,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-9\"><p>INTRO</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1k\" aria-expanded=\"false\">fase 1: op zoek naar een concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-u\" aria-expanded=\"false\">fase 2: object-vormgeving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1i\" aria-expanded=\"false\">fase 3: uitwerking object</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-25\" aria-expanded=\"false\">EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-2c\" aria-expanded=\"false\">SPECIAL THANKS TO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-9\"><p>INTRO</p></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1k\" aria-expanded=\"false\">fase 1: op zoek naar een concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-u\" aria-expanded=\"false\">fase 2: object-vormgeving</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1i\" aria-expanded=\"false\">fase 3: uitwerking object</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-25\" aria-expanded=\"false\">EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-2c\" aria-expanded=\"false\">SPECIAL THANKS TO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-2e\" aria-expanded=\"false\">FOLLOW US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -945,6 +945,48 @@
           ],
           "_name": "content1",
           "_anchor": "content1-26"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/26829312-524548964596374-1519926748-o-2000x776.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "    <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f"
         }
       ]
     }
