@@ -502,8 +502,12 @@ h6,
 #content5-1i p {
   color: #fff;
 }
-#header3-1y .mbr-section-title,
-#header3-1y .mbr-section-subtitle {
+#msg-box8-2a .mbr-section-title,
+#msg-box8-2a p {
+  color: #fff;
+}
+#header3-28 .mbr-section-title,
+#header3-28 .mbr-section-subtitle {
   text-align: center;
 }
 #features1-1o .striped .mbr-cards-col:nth-child(2n+1) {
