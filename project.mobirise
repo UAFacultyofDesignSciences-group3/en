@@ -53,8 +53,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/vLDXF3KHZE0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/vLDXF3KHZE0",
+              "url": "https://www.youtube.com/embed/J-2PN4MoSng?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=J-2PN4MoSng",
               "width": 1280,
               "height": 720
             },
@@ -91,10 +91,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "1.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.841rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -130,7 +130,7 @@
             "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.6",
+            "fontSize": "1.7",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
